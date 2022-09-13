@@ -1,0 +1,31 @@
+table{
+    margin: auto;
+    width: 300px;
+    text-align: center;
+    font-weight: bold;
+}
+
+tr{
+    background-color: turquoise;
+
+}
+.Cor{
+    background-color:rgba(255, 255, 255, 0.877);
+    font-weight: lighter;
+}
+.principal{
+text-align: center;
+margin: auto;
+font-weight: bold;
+padding-top: 20px;
+border: rgb(2, 2, 2) solid 2px;
+border-radius: 5px;
+width: 200px;
+height: 150px;
+padding-left: 10px;
+background-color: turquoise;
+}
+#botao{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
